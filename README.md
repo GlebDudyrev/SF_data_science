@@ -11,4 +11,4 @@ Description: In the first version of the program a person guesses the number hid
 * []
 * []
 
-## Links on my portfoli
+## Links on my portfolio
